@@ -25,8 +25,5 @@ WORKDIR /app
 # Make port 9000 available to the world outside this container
 EXPOSE 9000
 
-# Define environment variable
-ENV PLAY_HTTP_SECRET=secretkeyforcorporateequipmentallocationproject
-
 # Run the binary script when the container launches
 CMD ["./bin/scala-play-starter", "-Dplay.http.secret.key=aBASKNJKLASNKLDSbnasbnjksanjksdhklahsks,hdklhasklnksjbja,bndjksabnksanbksdhlahdsklsahkhsdhsahdjkahnjsakdnjkashskalhdklhksdahksalhd"]

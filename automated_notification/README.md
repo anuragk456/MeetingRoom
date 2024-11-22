@@ -35,5 +35,5 @@ This repository contains the **Automated Notification Module** for the **Office 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/anuragk456/MeetingRoomCaseStudy.git
+   git clone https://github.com/anuragk456/MeetingRoom.git
    cd MeetingRoomCaseStudy/automated_notification
